@@ -1,0 +1,51 @@
+body {
+    padding: 30px;
+    margin-left: 3%;
+}
+header {
+    background-color: ivory;
+    padding: 4%;
+    text-align: center;
+    background-image: url(http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg);
+}
+/* "gun" is name of my navigation links class. */
+.gun {
+    display: inline-block;
+    text-decoration: none;
+    border: solid;
+    border-radius: 20%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-color: lightseagreen;
+    font-family: cursive;
+    background-color: chartreuse;
+}
+.active {
+    font-style: oblique;
+    font-family: monospace;
+    text-decoration: none;
+    font-weight: bolder;
+    color: maroon;
+}
+section {
+    display: inline-block;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+/* "boom" is name of my images class. */
+.boom {
+    border: solid;
+    border-color: lightseagreen;
+    margin: 40px;
+    padding: 2%;
+    align-items: center;
+    width: 125px;
+}
+.joker {
+    border: solid;
+    border-color: lightseagreen;
+    margin: 40px;
+    padding: 2%;
+}

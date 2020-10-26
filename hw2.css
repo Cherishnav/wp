@@ -1,0 +1,22 @@
+header {
+    background-color: aquamarine;
+}
+h1 {
+    text-align: center;
+    color: burlywood;
+}
+h2{
+    color: chocolate;
+}
+section {
+    background-color: cornflowerblue;
+}
+nav {
+    color: crimson;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+img {
+    width: 0px;
+    height: 0px;
+}
